@@ -1,4 +1,5 @@
--- wsp
+-- Why Are You Here?
+
 WebSocket = WebSocket or {}
 
 function WebSocket.connect(url)
@@ -99,24 +100,16 @@ debug.getupvalue = function(func, num)
     return found
 end
 
-local file = readfile("configs/Config.txt") 
-if file then
-    local ua = file:match("([^]+)") 
-    if ua then
-        local uas = ua .. "/Vision (Credits To Xeno)" 
-        local old_request = request 
-        getgenv().request = function(options)
-            options.Headers = options.Headers or {}
-            options.Headers["User-Agent"] = uas
-            return old_request(options)
-        end
-    else
-        error("Failed to load config")
-    end
-else
-    error("Failed to open config")
+local uas = "/Vision (Credits To Xeno)"
+local old_request = request
+
+getgenv().request = function(options)
+    options.Headers = options.Headers or {}
+    options.Headers["User-Agent"] = uas
+    return old_request(options)
 end
 
+
 function printidentity()
-    print("Current identity is 3 (we don't fake)")
+    print("Current identity is 3")
 end
