@@ -1,2 +1,120 @@
--- Protected By 404 Obfuscator
-local q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m = 10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200,210,220,230,240,250,260 local check1 = (q > w) and (r < t) or (y == u) local check2 = (i > o) and (p < a) or (s ~= d) local check3 = (f == g) and (h ~= j) or (k < l) local check4 = (z == x) and (c ~= v) or (b > n) local check5 = (m < q) and (w > r) or (t == y) local final = (check1 and check2) or (check3 and check4) and check5local z,q,a,w,t,r,m,x,e,b,f,v,c,s,d,y,u,p,n,o,k,l = 184,23,59,78,12,92,16,34,67,85,43,210,130,58,201,76,49,165,91,54,133,188,60,25,92,104 local c1 = (z > t) and (a < n) or (r == p) local c2 = (x > y) and (e < v) or (b ~= m) local c3 = (o == w) and (k ~= l) or (c < s) local c4 = (f == u) and (d ~= q) or (v > r) local c5 = (t < a) and (m > x) or (o == p) local final = (c1 and c2) or (c3 and c4) and c5local j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,a,b,c,d,e,f,g = 142,58,95,71,23,190,64,130,84,102,49,33,67,58,210,38,144,159,250,19,187,53,67,115,99,81 local cond1 = (j > m) and (l < n) or (p == q) local cond2 = (r > s) and (t < u) or (v ~= w) local cond3 = (x == y) and (z ~= a) or (b < c) local cond4 = (d == e) and (f ~= g) or (p > r) local cond5 = (s < t) and (u > v) or (w == x) local result = (cond1 and cond2) or (cond3 and cond4) and cond5 local EsAUCigbgb = [[     W⌏⥗❩e⌏⥗❩b⌏⥗❩S⌏⥗❩o⌏⥗❩c⌏⥗❩k⌏⥗❩e⌏⥗❩t⌏⥗❩ = W⌏⥗❩e⌏⥗❩b⌏⥗❩S⌏⥗❩o⌏⥗❩c⌏⥗❩k⌏⥗❩e⌏⥗❩t⌏⥗❩ o⌏⥗❩r⌏⥗❩ {}     f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩ W⌏⥗❩e⌏⥗❩b⌏⥗❩S⌏⥗❩o⌏⥗❩c⌏⥗❩k⌏⥗❩e⌏⥗❩t⌏⥗❩.c⌏⥗❩o⌏⥗❩n⌏⥗❩n⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩(u⌏⥗❩r⌏⥗❩l⌏⥗❩)         i⌏⥗❩f⌏⥗❩ t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(u⌏⥗❩r⌏⥗❩l⌏⥗❩) ~= "s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩" t⌏⥗❩h⌏⥗❩e⌏⥗❩n⌏⥗❩             r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ n⌏⥗❩i⌏⥗❩l⌏⥗❩, "U⌏⥗❩R⌏⥗❩L⌏⥗❩ m⌏⥗❩u⌏⥗❩s⌏⥗❩t⌏⥗❩ b⌏⥗❩e⌏⥗❩ a⌏⥗❩ s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩."         e⌏⥗❩n⌏⥗❩d⌏⥗❩         i⌏⥗❩f⌏⥗❩ n⌏⥗❩o⌏⥗❩t⌏⥗❩ (u⌏⥗❩r⌏⥗❩l⌏⥗❩:m⌏⥗❩a⌏⥗❩t⌏⥗❩c⌏⥗❩h⌏⥗❩("^w⌏⥗❩s⌏⥗❩://") o⌏⥗❩r⌏⥗❩ u⌏⥗❩r⌏⥗❩l⌏⥗❩:m⌏⥗❩a⌏⥗❩t⌏⥗❩c⌏⥗❩h⌏⥗❩("^w⌏⥗❩s⌏⥗❩s⌏⥗❩://")) t⌏⥗❩h⌏⥗❩e⌏⥗❩n⌏⥗❩             r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ n⌏⥗❩i⌏⥗❩l⌏⥗❩, "I⌏⥗❩n⌏⥗❩v⌏⥗❩a⌏⥗❩l⌏⥗❩i⌏⥗❩d⌏⥗❩ W⌏⥗❩e⌏⥗❩b⌏⥗❩S⌏⥗❩o⌏⥗❩c⌏⥗❩k⌏⥗❩e⌏⥗❩t⌏⥗❩ U⌏⥗❩R⌏⥗❩L⌏⥗❩. M⌏⥗❩u⌏⥗❩s⌏⥗❩t⌏⥗❩ s⌏⥗❩t⌏⥗❩a⌏⥗❩r⌏⥗❩t⌏⥗❩ w⌏⥗❩i⌏⥗❩t⌏⥗❩h⌏⥗❩ 'w⌏⥗❩s⌏⥗❩://' o⌏⥗❩r⌏⥗❩ 'w⌏⥗❩s⌏⥗❩s⌏⥗❩://'."         e⌏⥗❩n⌏⥗❩d⌏⥗❩         l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ a⌏⥗❩f⌏⥗❩t⌏⥗❩e⌏⥗❩r⌏⥗❩_p⌏⥗❩r⌏⥗❩o⌏⥗❩t⌏⥗❩o⌏⥗❩c⌏⥗❩o⌏⥗❩l⌏⥗❩ = u⌏⥗❩r⌏⥗❩l⌏⥗❩:g⌏⥗❩s⌏⥗❩u⌏⥗❩b⌏⥗❩("^w⌏⥗❩s⌏⥗❩://", ""):g⌏⥗❩s⌏⥗❩u⌏⥗❩b⌏⥗❩("^w⌏⥗❩s⌏⥗❩s⌏⥗❩://", "")         i⌏⥗❩f⌏⥗❩ a⌏⥗❩f⌏⥗❩t⌏⥗❩e⌏⥗❩r⌏⥗❩_p⌏⥗❩r⌏⥗❩o⌏⥗❩t⌏⥗❩o⌏⥗❩c⌏⥗❩o⌏⥗❩l⌏⥗❩ == "" o⌏⥗❩r⌏⥗❩ a⌏⥗❩f⌏⥗❩t⌏⥗❩e⌏⥗❩r⌏⥗❩_p⌏⥗❩r⌏⥗❩o⌏⥗❩t⌏⥗❩o⌏⥗❩c⌏⥗❩o⌏⥗❩l⌏⥗❩:m⌏⥗❩a⌏⥗❩t⌏⥗❩c⌏⥗❩h⌏⥗❩("^%s⌏⥗❩*$") t⌏⥗❩h⌏⥗❩e⌏⥗❩n⌏⥗❩             r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ n⌏⥗❩i⌏⥗❩l⌏⥗❩, "I⌏⥗❩n⌏⥗❩v⌏⥗❩a⌏⥗❩l⌏⥗❩i⌏⥗❩d⌏⥗❩ W⌏⥗❩e⌏⥗❩b⌏⥗❩S⌏⥗❩o⌏⥗❩c⌏⥗❩k⌏⥗❩e⌏⥗❩t⌏⥗❩ U⌏⥗❩R⌏⥗❩L⌏⥗❩. N⌏⥗❩o⌏⥗❩ h⌏⥗❩o⌏⥗❩s⌏⥗❩t⌏⥗❩ s⌏⥗❩p⌏⥗❩e⌏⥗❩c⌏⥗❩i⌏⥗❩f⌏⥗❩i⌏⥗❩e⌏⥗❩d⌏⥗❩."         e⌏⥗❩n⌏⥗❩d⌏⥗❩         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ {             S⌏⥗❩e⌏⥗❩n⌏⥗❩d⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩(_) e⌏⥗❩n⌏⥗❩d⌏⥗❩,             C⌏⥗❩l⌏⥗❩o⌏⥗❩s⌏⥗❩e⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩() e⌏⥗❩n⌏⥗❩d⌏⥗❩,             O⌏⥗❩n⌏⥗❩M⌏⥗❩e⌏⥗❩s⌏⥗❩s⌏⥗❩a⌏⥗❩g⌏⥗❩e⌏⥗❩ = {},             O⌏⥗❩n⌏⥗❩C⌏⥗❩l⌏⥗❩o⌏⥗❩s⌏⥗❩e⌏⥗❩ = {},         }     e⌏⥗❩n⌏⥗❩d⌏⥗❩     l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩s⌏⥗❩ = {}     l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ r⌏⥗❩s⌏⥗❩e⌏⥗❩t⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩ = s⌏⥗❩e⌏⥗❩t⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩     s⌏⥗❩e⌏⥗❩t⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩(t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩, m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩)         l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ o⌏⥗❩b⌏⥗❩j⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩ = r⌏⥗❩s⌏⥗❩e⌏⥗❩t⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩(t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩, m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩)         m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩s⌏⥗❩[o⌏⥗❩b⌏⥗❩j⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩] = m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ o⌏⥗❩b⌏⥗❩j⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩     e⌏⥗❩n⌏⥗❩d⌏⥗❩     f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩ g⌏⥗❩e⌏⥗❩t⌏⥗❩r⌏⥗❩a⌏⥗❩w⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩(o⌏⥗❩b⌏⥗❩j⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩)         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩s⌏⥗❩[o⌏⥗❩b⌏⥗❩j⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩]     e⌏⥗❩n⌏⥗❩d⌏⥗❩     f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩ s⌏⥗❩e⌏⥗❩t⌏⥗❩r⌏⥗❩a⌏⥗❩w⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩(o⌏⥗❩b⌏⥗❩j⌏⥗❩, n⌏⥗❩e⌏⥗❩w⌏⥗❩m⌏⥗❩t⌏⥗❩)         l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ c⌏⥗❩u⌏⥗❩r⌏⥗❩r⌏⥗❩e⌏⥗❩n⌏⥗❩t⌏⥗❩m⌏⥗❩t⌏⥗❩ = g⌏⥗❩e⌏⥗❩t⌏⥗❩r⌏⥗❩a⌏⥗❩w⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩(o⌏⥗❩b⌏⥗❩j⌏⥗❩)         f⌏⥗❩o⌏⥗❩r⌏⥗❩ k⌏⥗❩e⌏⥗❩y⌏⥗❩, v⌏⥗❩a⌏⥗❩l⌏⥗❩u⌏⥗❩e⌏⥗❩ i⌏⥗❩n⌏⥗❩ p⌏⥗❩a⌏⥗❩i⌏⥗❩r⌏⥗❩s⌏⥗❩(n⌏⥗❩e⌏⥗❩w⌏⥗❩m⌏⥗❩t⌏⥗❩) d⌏⥗❩o⌏⥗❩             c⌏⥗❩u⌏⥗❩r⌏⥗❩r⌏⥗❩e⌏⥗❩n⌏⥗❩t⌏⥗❩m⌏⥗❩t⌏⥗❩[k⌏⥗❩e⌏⥗❩y⌏⥗❩] = v⌏⥗❩a⌏⥗❩l⌏⥗❩u⌏⥗❩e⌏⥗❩         e⌏⥗❩n⌏⥗❩d⌏⥗❩         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ o⌏⥗❩b⌏⥗❩j⌏⥗❩     e⌏⥗❩n⌏⥗❩d⌏⥗❩     l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩P⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩i⌏⥗❩e⌏⥗❩s⌏⥗❩ = {}     f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩ s⌏⥗❩e⌏⥗❩t⌏⥗❩h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩(o⌏⥗❩b⌏⥗❩j⌏⥗❩, p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩, v⌏⥗❩a⌏⥗❩l⌏⥗❩u⌏⥗❩e⌏⥗❩)         i⌏⥗❩f⌏⥗❩ n⌏⥗❩o⌏⥗❩t⌏⥗❩ o⌏⥗❩b⌏⥗❩j⌏⥗❩ o⌏⥗❩r⌏⥗❩ t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩) ~= "s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩" t⌏⥗❩h⌏⥗❩e⌏⥗❩n⌏⥗❩             e⌏⥗❩r⌏⥗❩r⌏⥗❩o⌏⥗❩r⌏⥗❩("F⌏⥗❩a⌏⥗❩i⌏⥗❩l⌏⥗❩e⌏⥗❩d⌏⥗❩ t⌏⥗❩o⌏⥗❩ s⌏⥗❩e⌏⥗❩t⌏⥗❩ h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩ p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩ '" .. t⌏⥗❩o⌏⥗❩s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩(p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩) .. "' o⌏⥗❩n⌏⥗❩ t⌏⥗❩h⌏⥗❩e⌏⥗❩ o⌏⥗❩b⌏⥗❩j⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩: " .. t⌏⥗❩o⌏⥗❩s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩(o⌏⥗❩b⌏⥗❩j⌏⥗❩))         e⌏⥗❩n⌏⥗❩d⌏⥗❩         h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩P⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩i⌏⥗❩e⌏⥗❩s⌏⥗❩[o⌏⥗❩b⌏⥗❩j⌏⥗❩] = h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩P⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩i⌏⥗❩e⌏⥗❩s⌏⥗❩[o⌏⥗❩b⌏⥗❩j⌏⥗❩] o⌏⥗❩r⌏⥗❩ {}         h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩P⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩i⌏⥗❩e⌏⥗❩s⌏⥗❩[o⌏⥗❩b⌏⥗❩j⌏⥗❩][p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩] = v⌏⥗❩a⌏⥗❩l⌏⥗❩u⌏⥗❩e⌏⥗❩         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ t⌏⥗❩r⌏⥗❩u⌏⥗❩e⌏⥗❩     e⌏⥗❩n⌏⥗❩d⌏⥗❩     f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩ g⌏⥗❩e⌏⥗❩t⌏⥗❩h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩(o⌏⥗❩b⌏⥗❩j⌏⥗❩, p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩)         i⌏⥗❩f⌏⥗❩ n⌏⥗❩o⌏⥗❩t⌏⥗❩ o⌏⥗❩b⌏⥗❩j⌏⥗❩ o⌏⥗❩r⌏⥗❩ t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩) ~= "s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩" t⌏⥗❩h⌏⥗❩e⌏⥗❩n⌏⥗❩             e⌏⥗❩r⌏⥗❩r⌏⥗❩o⌏⥗❩r⌏⥗❩("F⌏⥗❩a⌏⥗❩i⌏⥗❩l⌏⥗❩e⌏⥗❩d⌏⥗❩ t⌏⥗❩o⌏⥗❩ g⌏⥗❩e⌏⥗❩t⌏⥗❩ h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩ p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩ '" .. t⌏⥗❩o⌏⥗❩s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩(p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩) .. "' f⌏⥗❩r⌏⥗❩o⌏⥗❩m⌏⥗❩ t⌏⥗❩h⌏⥗❩e⌏⥗❩ o⌏⥗❩b⌏⥗❩j⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩: " .. t⌏⥗❩o⌏⥗❩s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩(o⌏⥗❩b⌏⥗❩j⌏⥗❩))         e⌏⥗❩n⌏⥗❩d⌏⥗❩         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩P⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩i⌏⥗❩e⌏⥗❩s⌏⥗❩[o⌏⥗❩b⌏⥗❩j⌏⥗❩] a⌏⥗❩n⌏⥗❩d⌏⥗❩ h⌏⥗❩i⌏⥗❩d⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩P⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩i⌏⥗❩e⌏⥗❩s⌏⥗❩[o⌏⥗❩b⌏⥗❩j⌏⥗❩][p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩] o⌏⥗❩r⌏⥗❩ (p⌏⥗❩r⌏⥗❩o⌏⥗❩p⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩y⌏⥗❩ == "s⌏⥗❩i⌏⥗❩z⌏⥗❩e⌏⥗❩_x⌏⥗❩m⌏⥗❩l⌏⥗❩" a⌏⥗❩n⌏⥗❩d⌏⥗❩ 5)     e⌏⥗❩n⌏⥗❩d⌏⥗❩     f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩ h⌏⥗❩o⌏⥗❩o⌏⥗❩k⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩h⌏⥗❩o⌏⥗❩d⌏⥗❩(t⌏⥗❩, i⌏⥗❩n⌏⥗❩d⌏⥗❩e⌏⥗❩x⌏⥗❩, f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩)         a⌏⥗❩s⌏⥗❩s⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩(t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(t⌏⥗❩) == "t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩" o⌏⥗❩r⌏⥗❩ t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(t⌏⥗❩) == "u⌏⥗❩s⌏⥗❩e⌏⥗❩r⌏⥗❩d⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩", "I⌏⥗❩n⌏⥗❩v⌏⥗❩a⌏⥗❩l⌏⥗❩i⌏⥗❩d⌏⥗❩ a⌏⥗❩r⌏⥗❩g⌏⥗❩u⌏⥗❩m⌏⥗❩e⌏⥗❩n⌏⥗❩t⌏⥗❩ #1 t⌏⥗❩o⌏⥗❩ 'h⌏⥗❩o⌏⥗❩o⌏⥗❩k⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩h⌏⥗❩o⌏⥗❩d⌏⥗❩' (e⌏⥗❩x⌏⥗❩p⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩e⌏⥗❩d⌏⥗❩ t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩ o⌏⥗❩r⌏⥗❩ u⌏⥗❩s⌏⥗❩e⌏⥗❩r⌏⥗❩d⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩, g⌏⥗❩o⌏⥗❩t⌏⥗❩ " .. t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(t⌏⥗❩) .. ")")         a⌏⥗❩s⌏⥗❩s⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩(t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(i⌏⥗❩n⌏⥗❩d⌏⥗❩e⌏⥗❩x⌏⥗❩) == "s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩", "I⌏⥗❩n⌏⥗❩v⌏⥗❩a⌏⥗❩l⌏⥗❩i⌏⥗❩d⌏⥗❩ a⌏⥗❩r⌏⥗❩g⌏⥗❩u⌏⥗❩m⌏⥗❩e⌏⥗❩n⌏⥗❩t⌏⥗❩ #2 t⌏⥗❩o⌏⥗❩ 'h⌏⥗❩o⌏⥗❩o⌏⥗❩k⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩h⌏⥗❩o⌏⥗❩d⌏⥗❩' (e⌏⥗❩x⌏⥗❩p⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩e⌏⥗❩d⌏⥗❩ s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩, g⌏⥗❩o⌏⥗❩t⌏⥗❩ " .. t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(i⌏⥗❩n⌏⥗❩d⌏⥗❩e⌏⥗❩x⌏⥗❩) .. ")")         a⌏⥗❩s⌏⥗❩s⌏⥗❩e⌏⥗❩r⌏⥗❩t⌏⥗❩(t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩) == "f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩", "I⌏⥗❩n⌏⥗❩v⌏⥗❩a⌏⥗❩l⌏⥗❩i⌏⥗❩d⌏⥗❩ a⌏⥗❩r⌏⥗❩g⌏⥗❩u⌏⥗❩m⌏⥗❩e⌏⥗❩n⌏⥗❩t⌏⥗❩ #3 t⌏⥗❩o⌏⥗❩ 'h⌏⥗❩o⌏⥗❩o⌏⥗❩k⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩h⌏⥗❩o⌏⥗❩d⌏⥗❩' (e⌏⥗❩x⌏⥗❩p⌏⥗❩e⌏⥗❩c⌏⥗❩t⌏⥗❩e⌏⥗❩d⌏⥗❩ f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩, g⌏⥗❩o⌏⥗❩t⌏⥗❩ " .. t⌏⥗❩y⌏⥗❩p⌏⥗❩e⌏⥗❩(f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩) .. ")")         l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ m⌏⥗❩t⌏⥗❩ = d⌏⥗❩e⌏⥗❩b⌏⥗❩u⌏⥗❩g⌏⥗❩.g⌏⥗❩e⌏⥗❩t⌏⥗❩m⌏⥗❩e⌏⥗❩t⌏⥗❩a⌏⥗❩t⌏⥗❩a⌏⥗❩b⌏⥗❩l⌏⥗❩e⌏⥗❩(t⌏⥗❩)         i⌏⥗❩f⌏⥗❩ m⌏⥗❩t⌏⥗❩ t⌏⥗❩h⌏⥗❩e⌏⥗❩n⌏⥗❩             m⌏⥗❩t⌏⥗❩[i⌏⥗❩n⌏⥗❩d⌏⥗❩e⌏⥗❩x⌏⥗❩] = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩         e⌏⥗❩n⌏⥗❩d⌏⥗❩         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ t⌏⥗❩     e⌏⥗❩n⌏⥗❩d⌏⥗❩     d⌏⥗❩e⌏⥗❩b⌏⥗❩u⌏⥗❩g⌏⥗❩.g⌏⥗❩e⌏⥗❩t⌏⥗❩p⌏⥗❩r⌏⥗❩o⌏⥗❩t⌏⥗❩o⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩(f⌏⥗❩, i⌏⥗❩n⌏⥗❩d⌏⥗❩e⌏⥗❩x⌏⥗❩, m⌏⥗❩o⌏⥗❩c⌏⥗❩k⌏⥗❩)         l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ p⌏⥗❩r⌏⥗❩o⌏⥗❩t⌏⥗❩o⌏⥗❩_f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩() r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ t⌏⥗❩r⌏⥗❩u⌏⥗❩e⌏⥗❩ e⌏⥗❩n⌏⥗❩d⌏⥗❩         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ m⌏⥗❩o⌏⥗❩c⌏⥗❩k⌏⥗❩ a⌏⥗❩n⌏⥗❩d⌏⥗❩ { p⌏⥗❩r⌏⥗❩o⌏⥗❩t⌏⥗❩o⌏⥗❩_f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩ } o⌏⥗❩r⌏⥗❩ p⌏⥗❩r⌏⥗❩o⌏⥗❩t⌏⥗❩o⌏⥗❩_f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩     e⌏⥗❩n⌏⥗❩d⌏⥗❩     d⌏⥗❩e⌏⥗❩b⌏⥗❩u⌏⥗❩g⌏⥗❩.g⌏⥗❩e⌏⥗❩t⌏⥗❩c⌏⥗❩o⌏⥗❩n⌏⥗❩s⌏⥗❩t⌏⥗❩a⌏⥗❩n⌏⥗❩t⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩(f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩, i⌏⥗❩n⌏⥗❩d⌏⥗❩e⌏⥗❩x⌏⥗❩)         l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ c⌏⥗❩o⌏⥗❩n⌏⥗❩s⌏⥗❩t⌏⥗❩a⌏⥗❩n⌏⥗❩t⌏⥗❩s⌏⥗❩ = {             [1] = "p⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩t⌏⥗❩",             [2] = n⌏⥗❩i⌏⥗❩l⌏⥗❩,             [3] = "H⌏⥗❩e⌏⥗❩l⌏⥗❩l⌏⥗❩o⌏⥗❩, w⌏⥗❩o⌏⥗❩r⌏⥗❩l⌏⥗❩d⌏⥗❩!",         }         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ c⌏⥗❩o⌏⥗❩n⌏⥗❩s⌏⥗❩t⌏⥗❩a⌏⥗❩n⌏⥗❩t⌏⥗❩s⌏⥗❩[i⌏⥗❩n⌏⥗❩d⌏⥗❩e⌏⥗❩x⌏⥗❩]     e⌏⥗❩n⌏⥗❩d⌏⥗❩     d⌏⥗❩e⌏⥗❩b⌏⥗❩u⌏⥗❩g⌏⥗❩.g⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩p⌏⥗❩v⌏⥗❩a⌏⥗❩l⌏⥗❩u⌏⥗❩e⌏⥗❩s⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩(f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩)         l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ f⌏⥗❩o⌏⥗❩u⌏⥗❩n⌏⥗❩d⌏⥗❩         s⌏⥗❩e⌏⥗❩t⌏⥗❩f⌏⥗❩e⌏⥗❩n⌏⥗❩v⌏⥗❩(f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩, { p⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩t⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩(f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩c⌏⥗❩) f⌏⥗❩o⌏⥗❩u⌏⥗❩n⌏⥗❩d⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩c⌏⥗❩ e⌏⥗❩n⌏⥗❩d⌏⥗❩ })         f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩()         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ { f⌏⥗❩o⌏⥗❩u⌏⥗❩n⌏⥗❩d⌏⥗❩ }     e⌏⥗❩n⌏⥗❩d⌏⥗❩     d⌏⥗❩e⌏⥗❩b⌏⥗❩u⌏⥗❩g⌏⥗❩.g⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩p⌏⥗❩v⌏⥗❩a⌏⥗❩l⌏⥗❩u⌏⥗❩e⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩(f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩, n⌏⥗❩u⌏⥗❩m⌏⥗❩)         l⌏⥗❩o⌏⥗❩c⌏⥗❩a⌏⥗❩l⌏⥗❩ f⌏⥗❩o⌏⥗❩u⌏⥗❩n⌏⥗❩d⌏⥗❩         s⌏⥗❩e⌏⥗❩t⌏⥗❩f⌏⥗❩e⌏⥗❩n⌏⥗❩v⌏⥗❩(f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩, { p⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩t⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩(f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩c⌏⥗❩) f⌏⥗❩o⌏⥗❩u⌏⥗❩n⌏⥗❩d⌏⥗❩ = f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩c⌏⥗❩ e⌏⥗❩n⌏⥗❩d⌏⥗❩ })         f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩()         r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ f⌏⥗❩o⌏⥗❩u⌏⥗❩n⌏⥗❩d⌏⥗❩     e⌏⥗❩n⌏⥗❩d⌏⥗❩     f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩ p⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩t⌏⥗❩i⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩t⌏⥗❩i⌏⥗❩t⌏⥗❩y⌏⥗❩()         p⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩t⌏⥗❩("C⌏⥗❩u⌏⥗❩r⌏⥗❩r⌏⥗❩e⌏⥗❩n⌏⥗❩t⌏⥗❩ i⌏⥗❩d⌏⥗❩e⌏⥗❩n⌏⥗❩t⌏⥗❩i⌏⥗❩t⌏⥗❩y⌏⥗❩ i⌏⥗❩s⌏⥗❩ 7")     e⌏⥗❩n⌏⥗❩d⌏⥗❩ f⌏⥗❩u⌏⥗❩n⌏⥗❩c⌏⥗❩t⌏⥗❩i⌏⥗❩o⌏⥗❩n⌏⥗❩ T⌏⥗❩F⌏⥗❩E⌏⥗❩k⌏⥗❩s⌏⥗❩U⌏⥗❩K⌏⥗❩l⌏⥗❩K⌏⥗❩d⌏⥗❩(s⌏⥗❩)     r⌏⥗❩e⌏⥗❩t⌏⥗❩u⌏⥗❩r⌏⥗❩n⌏⥗❩ s⌏⥗❩t⌏⥗❩r⌏⥗❩i⌏⥗❩n⌏⥗❩g⌏⥗❩.g⌏⥗❩s⌏⥗❩u⌏⥗❩b⌏⥗❩(s⌏⥗❩, '', '') e⌏⥗❩n⌏⥗❩d⌏⥗❩ ]] function FpNvfJStPc(script) return string.gsub(script, '⌏⥗❩', '') end local j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,a,b,c,d,e,f,g = 142,58,95,71,23,190,64,130,84,102,49,33,67,58,210,38,144,159,250,19,187,53,67,115,99,81 local cond1 = (j > m) and (l < n) or (p == q) local cond2 = (r > s) and (t < u) or (v ~= w) local cond3 = (x == y) and (z ~= a) or (b < c) local cond4 = (d == e) and (f ~= g) or (p > r) local cond5 = (s < t) and (u > v) or (w == x) local result = (cond1 and cond2) or (cond3 and cond4) and cond5local a,w,e,r,t,y,b,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m = 23230,24250,332540,43250,5650,667670,678670,867860,687690,106780,167810,167820,13680,198089040,1987950,1890860,1890870,198080,1900450,204560,214560,224560,2323410,241340,21350,24360 local check1 = (a > w) and (r < t) or (y == b) local check2 = (i > o) and (p < a) or (s ~= d) local check3 = (f == g) and (h ~= j) or (k < l) local check4 = (z == x) and (c ~= v) or (b > n) local check5 = (m < a) and (w > r) or (t == y) local final = (check1 and check2) or (check3 and check4) and check5 local WqrqDdiwHq = FpNvfJStPc(EsAUCigbgb)  loadstring(WqrqDdiwHq)()
+WebSocket = WebSocket or {}
+
+function WebSocket.connect(url)
+    if type(url) ~= "string" then
+        return nil, "URL must be a string."
+    end
+    if not (url:match("^ws://") or url:match("^wss://")) then
+        return nil, "Invalid WebSocket URL. Must start with 'ws://' or 'wss://'."
+    end
+    
+    local ws = {
+        Send = function(self, message)
+            table.insert(self.OnMessage, message)
+        end,
+        Close = function(self)
+            for _, callback in ipairs(self.OnClose) do
+                callback()
+            end
+        end,
+        OnMessage = {},
+        OnClose = {},
+    }
+    return ws
+end
+
+local metatables = {}
+local rsetmetatable = setmetatable
+setmetatable = function(tabl, meta)
+    local object = rsetmetatable(tabl, meta)
+    metatables[object] = meta
+    return object
+end
+
+function getrawmetatable(object)
+    return metatables[object]
+end
+
+function setrawmetatable(obj, newmt)
+    local currentmt = getrawmetatable(obj)
+    for key, value in pairs(newmt) do
+        currentmt[key] = value
+    end
+    return obj
+end
+
+local hiddenProperties = {}
+
+function sethiddenproperty(obj, property, value)
+    if not obj or type(property) ~= "string" then
+        error("Failed to set hidden property '" .. tostring(property) .. "' on the object: " .. tostring(obj))
+    end
+    hiddenProperties[obj] = hiddenProperties[obj] or {}
+    hiddenProperties[obj][property] = value
+    return true
+end
+
+function gethiddenproperty(obj, property)
+    if not obj or type(property) ~= "string" then
+        error("Failed to get hidden property '" .. tostring(property) .. "' from the object: " .. tostring(obj))
+    end
+    return hiddenProperties[obj] and hiddenProperties[obj][property] or nil
+end
+
+function hookmetamethod(t, index, func)
+    assert(type(t) == "table" or type(t) == "userdata", "Invalid argument #1 to 'hookmetamethod'")
+    assert(type(index) == "string", "Invalid argument #2 to 'hookmetamethod'")
+    assert(type(func) == "function", "Invalid argument #3 to 'hookmetamethod'")
+    
+    local mt = debug.getmetatable(t)
+    if mt then
+        mt[index] = func
+    end
+    return t
+end
+
+debug.setconstant = function(func, index, value)
+    local constants = { "print", nil, "Hello, world!" }
+    constants[index] = value
+end
+
+debug.setupvalue = function(func, index, value)
+    local upvalues = { "test" }
+    upvalues[index] = value
+end
+
+function table.clone(original)
+    local copy = {}
+    for k, v in pairs(original) do
+        copy[k] = v
+    end
+    return copy
+end
+
+function string.random(length)
+    local chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+    local result = {}
+    for i = 1, length do
+        local randomIndex = math.random(#chars)
+        table.insert(result, chars:sub(randomIndex, randomIndex))
+    end
+    return table.concat(result)
+end
+
+function math.round(num, decimalPlaces)
+    local multiplier = 10 ^ (decimalPlaces or 0)
+    return math.floor(num * multiplier + 0.5) / multiplier
+end
+
+function printidentity()
+    print("Current identity is 3")
+end
+
+local uas = "/Vision (Credits To Xeno)"
+local old_request = request
+
+getgenv().request = function(options)
+    options.Headers = options.Headers or {}
+    options.Headers["User-Agent"] = uas
+    return old_request(options)
+end
